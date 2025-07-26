@@ -8,7 +8,6 @@ Hi there, I'm Akshay 👋
 
 ### Nice to see you here!
 
-<br>
 
 ### Projects List that I built as part of my Data analysis journey:
 #### ✅ Excel dashboard
